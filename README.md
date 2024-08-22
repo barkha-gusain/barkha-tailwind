@@ -1,2 +1,2 @@
 # barkha-tailwind
-project with tailwind css
+project with tailwind css with barkha
